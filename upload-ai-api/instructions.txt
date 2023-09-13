@@ -1,0 +1,3 @@
+
+#Initialize the prisma
+pnpm prisma init --datasource-provider sqlite
