@@ -8,7 +8,7 @@ Este projeto consiste em uma aplicação web que gera titulos e descrições de 
 - [Ferramentas/Tecnologias Utilizadas no back-end](#ferramentastecnologias-utilizadas-no-back-end)
 - [Pré-requisitos](#pré-requisitos)
 - [Como executar este projeto localmente](#como-executar-este-projeto-localmente)
-- [Autora](#autor)
+- [Autor](#autor)
 - [Contato](#contato)
 
 ## Objetivo
